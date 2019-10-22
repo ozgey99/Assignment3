@@ -6,7 +6,7 @@ Steps to reproduce: (Assuming you use Visual Studio)
 
 0. `git clone https://github.com/ozgey99/Assignment3.git`
 
-0.5. If using Visual Studio, Open Project or Solution > Navigate to Solution named `Assignment3TestSuite.sln`, open. (Then skip to step 4.a.)
+1.a. If using Visual Studio, Open Project or Solution > Navigate to Solution named `Assignment3TestSuite.sln`, open. (Then skip to step 4.a.)
 
 1. `cd Assignment3-TDD`
 
