@@ -1,6 +1,25 @@
-# TDD Assignment 3
+# <img src="https://ruc.dk/sites/default/files/2017-05/ruc_logo_download_dk.png" width=500px>
 
-## Current status: All tests pass
+
+# RAWDATA Assignment 3 – Network
+
+This assignment concerns development of a network service using the RDJTP – RawData JSON Transport Protocol.
+The task is to create a network service that provide the functionality defined by the RDJTP using Test Driven Development (TDD).
+
+This network service was developed by group **raw4** of course RAWDATA (Master's in Computer Science, Roskilde University):
+- Özge Yaşayan
+- Shushma Devi Gurung
+- Ivan Spajic
+- Manish Shrestha 
+
+## Current status: All tests pass (28 out of 28)
+
+### Screenshots of test output:
+
+1. Terminal:
+2. Test Explorer:
+3. Visual Studio:
+
 
 Steps to reproduce: (Assuming you use Visual Studio)
 
